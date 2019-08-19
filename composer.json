@@ -13,6 +13,7 @@
         }
     },
     "require": {
-        "Illuminate/Support" : "~5"
+        "Illuminate/Support" : "~5",
+        "caffeinated/flash" : "~2.0"
     }
 }
